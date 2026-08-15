@@ -1,0 +1,18 @@
+# Java Compiled class files
+bin/
+*.class
+
+# Java Serialization Data Files (persisted library records)
+*.dat
+
+# Mobile Tools / OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
